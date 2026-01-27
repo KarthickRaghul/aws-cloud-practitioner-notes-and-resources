@@ -1,14 +1,14 @@
 **Block Storage**: Like a hard drive attached to your computer. Used for databases and EC2 boot volumes. Example: Amazon EBS.
 
-[Block storage](Block%20storage.md)
+[Block storage](Block%20storage)
 
 **File Storage**: Like a shared network folder with directories. Multiple users can access at once. Example: Amazon EFS . Have metadatas
 
-[File Storage](File%20Storage.md)
+[File Storage](File%20Storage)
 
 **Object Storage**: Stores files as objects with metadata, accessed via web APIs. Best for backups, media files, and large-scale data. Example: Amazon S3.
 
-[Object Storage](Object%20Storage.md)
+[Object Storage](Object%20Storage)
 
 ---
 
